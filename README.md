@@ -1,2 +1,2 @@
-# zuri
-responsive link -
+zuri
+responsive link -  https://adaeze-k.github.io/zuri/
